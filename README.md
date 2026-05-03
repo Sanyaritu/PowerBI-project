@@ -42,5 +42,4 @@ The project involved data cleaning, quantitative analysis, and creating high-imp
 
 ---
 
-## 📧 Contact
-**Sanyaritu Bhatia** [LinkedIn Profile Link] | [Portfolio Link]
+
